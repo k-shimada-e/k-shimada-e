@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Backend Engineer / Tokyo
+
+### Projects
+
+- [equify](https://github.com/k-shimada-e/equify) — Testify-style Go assertions that respect `Equal` methods, powered by go-cmp.
+
 <!--
 **k-shimada-e/k-shimada-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
